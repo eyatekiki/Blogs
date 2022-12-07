@@ -1,1 +1,2 @@
-# Blogs
+# HEA BLOGS /
+HEA is a blog app where the user can have his own profile ,create ,delete ,  add ,update a blog ,also he can shoose wich topic he will write about it ...
